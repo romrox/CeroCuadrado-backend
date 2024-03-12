@@ -1,0 +1,6 @@
+@CeroCuadrado_HostAddress = http://localhost:5125
+
+GET {{CeroCuadrado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
